@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "admin@admin.com",
+            "password": "admin"
+        }
+    ],
+    "enterprises": [
+        {
+            "id": 1,
+            "name": "Macal",
+            "cnpj": "12345678910",
+            "created_at": "2023-10-18T18:39:02.000000Z",
+            "updated_at": "2023-10-18T18:39:02.000000Z"
+        },
+        {
+            "id": 2,
+            "name": "Macal",
+            "cnpj": "12345678910",
+            "created_at": "2023-10-18T18:39:21.000000Z",
+            "updated_at": "2023-10-18T18:39:21.000000Z"
+        }
+    ]
+}
